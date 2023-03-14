@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 419.99999 297"
+   version="1.1"
+   id="svg185"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="Web Design sketch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview187"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.4204826"
+     inkscape:cx="778.86694"
+     inkscape:cy="354.35473"
+     inkscape:window-width="1558"
+     inkscape:window-height="836"
+     inkscape:window-x="42"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs182" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#322528;fill-rule:evenodd;stroke-width:0.79375;stop-color:#000000;fill-opacity:1"
+       id="rect378"
+       width="297"
+       height="420"
+       x="-297"
+       y="-420"
+       transform="matrix(0,-1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.973885;stop-color:#000000"
+       id="rect2783"
+       width="93.861816"
+       height="25.190237"
+       x="16.400785"
+       y="15.425704"
+       ry="7.1932096" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.4561px;line-height:normal;font-family:'Gotham Black';-inkscape-font-specification:'Gotham Black, ';text-align:center;text-decoration-color:#000000;text-anchor:middle;opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke-width:1.29391;stop-color:#000000"
+       x="63.084938"
+       y="35.530464"
+       id="text1837"><tspan
+         sodipodi:role="line"
+         id="tspan1835"
+         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.29391"
+         x="63.084938"
+         y="35.530464">LOGO</tspan></text>
+    <rect
+       style="opacity:1;fill:#d3d3d3;fill-opacity:1;fill-rule:evenodd;stroke-width:0.764987;stop-color:#000000"
+       id="rect3107"
+       width="215.47955"
+       height="28.974434"
+       x="193.03285"
+       y="10.553088"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3043px;line-height:normal;font-family:Gubbi;-inkscape-font-specification:Gubbi;text-align:center;text-decoration-color:#000000;text-anchor:middle;opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:1.16415;stop-color:#000000"
+       x="224.01118"
+       y="32.300468"
+       id="text3111"><tspan
+         sodipodi:role="line"
+         id="tspan3109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gubbi;-inkscape-font-specification:Gubbi;fill:#333333;fill-opacity:1;stroke-width:1.16415"
+         x="227.07933"
+         y="32.300468">Menu </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3043px;line-height:normal;font-family:Gubbi;-inkscape-font-specification:Gubbi;text-align:center;text-decoration-color:#000000;text-anchor:middle;opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:1.16415;stop-color:#000000"
+       x="288.44107"
+       y="32.300468"
+       id="text3217"><tspan
+         sodipodi:role="line"
+         id="tspan3215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gubbi;-inkscape-font-specification:Gubbi;fill:#333333;fill-opacity:1;stroke-width:1.16415"
+         x="291.50922"
+         y="32.300468">About </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3043px;line-height:normal;font-family:Gubbi;-inkscape-font-specification:Gubbi;text-align:center;text-decoration-color:#000000;text-anchor:middle;opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:1.16415;stop-color:#000000"
+       x="362.98972"
+       y="32.427719"
+       id="text3221"><tspan
+         sodipodi:role="line"
+         id="tspan3219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gubbi;-inkscape-font-specification:Gubbi;fill:#333333;fill-opacity:1;stroke-width:1.16415"
+         x="362.98972"
+         y="32.427719">Contact</tspan></text>
+  </g>
+</svg>
